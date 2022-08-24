@@ -34,8 +34,19 @@ body html .root {
   border-radius:8px;
   border: none;
   width: 100px;
-  
+  margin-left: 30px;
 
+}
+.start{
+  font-family: "Fredoka One", cursive;
+  
+	  background-color: #202124;
+  color: white;
+  height: 30px;
+  font-size: 15px;
+  border-radius:8px;
+  border: none;
+  width: 100px;
 }
 .ball{
     background-color: black;
